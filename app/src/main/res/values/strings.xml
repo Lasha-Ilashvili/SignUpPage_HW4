@@ -2,4 +2,6 @@
     <string name="app_name">SignUpPage_HW4</string>
     <string name="hello_message">Hello!</string>
     <string name="lets_introduce_message">lets introduce</string>
+    <string name="username_text">Username</string>
+    <string name="your_full_name_text">Your full name</string>
 </resources>
